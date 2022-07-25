@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="717e3b92-a5e3-4f8d-8863-8b3b80f7acf4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="/Applications/MAMP/htdocs/wp_dev" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2C6yCEPva6rSRucabLcaFH0G6ZX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/admin" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/admin" />
+      <recent name="$PROJECT_DIR$/frontend" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/admin" />
+      <recent name="$PROJECT_DIR$/user" />
+      <recent name="$PROJECT_DIR$/admin/templates" />
+      <recent name="$PROJECT_DIR$/frontend/templates" />
+      <recent name="$PROJECT_DIR$/frontend" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="717e3b92-a5e3-4f8d-8863-8b3b80f7acf4" name="Changes" comment="" />
+      <created>1658137199752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658137199752</updated>
+      <workItem from="1658137201013" duration="9170000" />
+      <workItem from="1658166251740" duration="28000" />
+      <workItem from="1658287535122" duration="15032000" />
+      <workItem from="1658386000771" duration="18000" />
+      <workItem from="1658492543742" duration="5071000" />
+      <workItem from="1658636699081" duration="6910000" />
+      <workItem from="1658720596549" duration="4000" />
+      <workItem from="1658743701048" duration="10694000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
